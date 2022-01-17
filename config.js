@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/JMA6U58Pxm7JJJUFiAqIOm']
-global.channelYT = ['https://youtube.com/channel/UC6RG7BzAxnZDx-2LUUVVjOg'] 
+global.linkGC = ['https://chat.whatsapp.com/KlwjqjHu65aI6nLNXy1lcC']
+global.channelYT = ['Julian Kastara09'] 
 global.owner = ['6285742344873']// Put your number here
 global.mods = ['6285742344873'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
