@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/KlwjqjHu65aI6nLNXy1lcC']
 global.channelYT = ['Julian Kastara09'] 
-global.owner = ['6285742344873']// Put your number here
-global.mods = ['6285742344873'] // Want some help?
+global.owner = ['6283141445553']// Put your number here
+global.mods = ['6283141445553'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
